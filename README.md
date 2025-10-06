@@ -1,5 +1,7 @@
 # Excel-to-PowerBI-Learning-Journey
 180-day Excel, Power BI &amp; Automation learning journey with handwritten notes, dashboards, and projects
+
+
 Day -1 I learnt about Interface of Ms Excel here 8 part of screen 
 1. Excel Interface
 2. Ribbon 
